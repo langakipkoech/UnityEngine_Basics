@@ -1,6 +1,6 @@
 ### Particle Force Calculation in Fluid Simulation
 
-This code snippet is part of a fluid simulation (likely a Smoothed Particle Hydrodynamics, or SPH simulation) that calculates and handles forces applied to particles based on pressure and viscosity.
+This code snippet is part of a fluid simulation based on SPH that calculates and handles forces applied to particles based on pressure and viscosity.
 
 #### Key Variables:
 - **`Vector3 pressureForce = Vector3.zero;`**
